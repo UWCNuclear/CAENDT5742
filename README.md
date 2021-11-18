@@ -1,12 +1,12 @@
-*Full manuals are available for download from caen.it :
+*Full manuals are available for download from* caen.it :
 
-*-- DT5742 User Manual
+*-- DT5742 User Manual*
 
-*-- 742 Quick Start Guide
+*-- 742 Quick Start Guide*
 
-*-- WaveDump User Manual
+*-- WaveDump User Manual*
 
-*-- WaveDump QuickStart Guide
+*-- WaveDump QuickStart Guide*
 
 # How to install Wavedump on Windows 10
 
