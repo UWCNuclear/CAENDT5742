@@ -1,4 +1,4 @@
-# How of Wavedump on Windows	10
+# How to install Wavedump on Windows 10
 
 Full manuals are available for download from caen.it :
 
