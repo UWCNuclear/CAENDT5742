@@ -1,14 +1,14 @@
+*Full manuals are available for download from caen.it :
+
+*-- DT5742 User Manual
+
+*-- 742 Quick Start Guide
+
+*-- WaveDump User Manual
+
+*-- WaveDump QuickStart Guide
+
 # How to install Wavedump on Windows 10
-
-Full manuals are available for download from caen.it :
-
-DT5742 User Manual
-
-742 Quick Start Guide
-
-WaveDump User Manual
-
-WaveDump QuickStart Guide
 
 **Step 1.** Digitizer driver
 
