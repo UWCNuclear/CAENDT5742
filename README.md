@@ -53,7 +53,7 @@ In WaveDumpConfig_X742.txt, edit:
       NIM signal                                32768         20934
       Negative signal: V = 0 ÷ -400 mV          32768         23574
       Negative signal: V = 0 ÷ -200 mV          32768         24894
-      Positive signal: V = 0 ÷ ≥2 V            43008         26214
+      Positive signal: V = 0 ÷ ≥2 V             43008         26214
       Positive signal: V = 0 ÷ 2 V              37287         26214
  
  
