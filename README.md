@@ -1,4 +1,4 @@
-*Full manuals are available for download from* caen.it :
+*Full manuals are available for download from* https://www.caen.it/ :
 
 *-- DT5742 User Manual*
 
