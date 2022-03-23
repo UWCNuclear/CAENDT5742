@@ -8,6 +8,8 @@
 
 *-- WaveDump QuickStart Guide*
 
+*-- Zeus for CAEN SiPM power supply*
+
 # How to install Wavedump on Windows 10
 
 **Step 1.** Digitizer driver
